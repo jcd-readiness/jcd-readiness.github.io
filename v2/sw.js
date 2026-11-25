@@ -4,8 +4,8 @@
      أو انقطعت فمن الجهاز. لا تحديث على مرتين ولا نسخة نصفها قديم: الصفحة وملفاتها من الإصدار نفسه.
    - الملفات ذات البصمة (assets): من الجهاز أولا، فاسمها يتغير إذا تغير محتواها.
    - البيانات (data.json) والخادم (/api/) لا يمسها: نسخة البيانات على الجهاز في IndexedDB، والطلب بالبصمة. */
-const VERSION = "2026-11-25T11:59:29.313Z";
-const PRECACHE = ["./","./assets/el-messiri-arabic-400-normal-DpRZdUUn.woff2","./assets/el-messiri-arabic-700-normal-D9aO7CWn.woff2","./assets/el-messiri-latin-400-normal-DnjVM4dS.woff2","./assets/el-messiri-latin-700-normal-2VyxPaO_.woff2","./assets/logo-CaLBbQvd.js","./assets/logo-DUK4i2Le.webp","./assets/main-CttWaPzI.css","./assets/main-CxTF2GI5.js"];
+const VERSION = "2026-11-25T14:09:50.564Z";
+const PRECACHE = ["./","./assets/el-messiri-arabic-400-normal-DpRZdUUn.woff2","./assets/el-messiri-arabic-700-normal-D9aO7CWn.woff2","./assets/el-messiri-latin-400-normal-DnjVM4dS.woff2","./assets/el-messiri-latin-700-normal-2VyxPaO_.woff2","./assets/logo-CCAy7Cic.js","./assets/logo-DUK4i2Le.webp","./assets/main-BY9FiRIE.js","./assets/main-D1Hev8Qk.css"];
 const CACHE = "jr2-" + VERSION;
 const NAV_TIMEOUT = 4000;
 
